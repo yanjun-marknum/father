@@ -1,1 +1,4 @@
 
+[submodule "son"]
+	path = son
+	url = git@github.com:yanjun-marknum/testgit.git
